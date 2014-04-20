@@ -6,3 +6,6 @@ Attempt of russian translation of the book "Is Parallel Programming Hard, And, I
 https://www.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html
 
 Credits to Paul McKenney
+
+
+**Currently in progress. Many errors, typos and omissions.**
